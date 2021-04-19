@@ -14,6 +14,6 @@ This is a draft website for Info Viz!
 
 <h2>Images</h2>
 
-<img src="infographic_AmandaKochak.png">
+<img src="cat.PNG">
 
 </html>
